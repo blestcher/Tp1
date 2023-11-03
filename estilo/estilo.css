@@ -85,26 +85,10 @@ nav ul li a {
     border-radius: 15px;
     border: 1 px #07ad92;
 }
-
-.formulario, input :placeholder, textarea :placeholder{
-    color: aquamarine;
-    background-color: aquamarine;
+#enviar {
+    margin: 25px;
+    border-radius: 15px;
 }
-
-.btn {
-    font-size: 50px;
-    font-weight: 200;
-    color: #06438a;
-    border: 2px slategrey;
-    border-radius: 20px;
-    background-color: rgb(6, 131, 131);
-    cursor: pointer;
-}
-
-.btn :hover {
-    background-color: #07ad92;
-}
-
 
 footer ul {
     display: flex ;
